@@ -2,17 +2,17 @@
 
 	// Database Credentials
     define('DB_HOST', 'localhost');
-    define('DB_DATABASE', 'tou');
-    define('DB_USERNAME', 'root');
-    define('DB_PASSWORD', '');
+    define('DB_DATABASE', 'your database');
+    define('DB_USERNAME', 'your username');
+    define('DB_PASSWORD', 'your password');
 
 	// Email Credentials
 	define('SMTP_HOST', 'smtp.gmail.com');
 	define('SMTP_PORT', 465);
 	define('SMTP_USERNAME', 'name@mydomain.com');
-	define('SMTP_PASSWORD', '<gkzezttyibryklvg>');
+	define('SMTP_PASSWORD', '<your password domain>');
 	define('SMTP_FROM', 'noreply@mydomain.com');
-	define('SMTP_FROM_NAME', 'Code Break');
+	define('SMTP_FROM_NAME', 'Your Name');
 
 	// Global Variables
 	define('MAX_LOGIN_ATTEMPTS_PER_HOUR', 5);
