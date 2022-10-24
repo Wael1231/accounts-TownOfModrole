@@ -3,9 +3,13 @@ A secure PHP login system made from scratch with protections against several com
 
 Check out the youtube playlist here: https://www.youtube.com/playlist?list=PLG5M8QIx5lkwT6ly5V34uLpX_5anpUEB3
 
+
 Please note this code is not provided so that you can just copy and paste it (although there are no legal issues in doing so). It may not work out of the box for you. The intent behind posting the code is that you can follow along with the videos and refrence it if you need. Please do not spam the comment section of my videos with error messages if you are having issues implementing it. However, if you do find an issue with the ACTUAL CODE (not issues that only apply to your enviornment) please submit an issue to github.
 
-
+ Please Note : 
+ this is project i am working on so will be fund bug 
+ 
+ 
 ### Features / Protections
 - Login (protected against brute force/dictionary attacks)
 - Sign Up
